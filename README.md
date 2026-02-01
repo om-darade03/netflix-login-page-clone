@@ -13,14 +13,9 @@ This project focuses on clean UI design and responsiveness.
 - HTML5
 - CSS3
 
-## 📂 Project Structure
-
-
-## 🌍 Live Demo
-https://om-03-005.github.io/netflix-login-page-clone/
-
 ## 👤 Author
-**Om Darade**
+**Om Narayan Darade**
+GitHub: https://github.com/om-03-005
 
 ## 📄 License
 This project is for educational purposes only.
