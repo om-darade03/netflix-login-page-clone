@@ -17,7 +17,7 @@ This project focuses on clean UI design and responsiveness.
 
 
 ## 🌍 Live Demo
-https://your-username.github.io/netflix-login-page-clone/
+https://om-03-005.github.io/netflix-login-page-clone/
 
 ## 👤 Author
 **Om Darade**
