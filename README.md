@@ -15,7 +15,7 @@ This project focuses on clean UI design and responsiveness.
 
 ## 👤 Author
 **Om Narayan Darade**
-GitHub: https://github.com/om-03-005
+GitHub: https://github.com/om-darade03
 
 ## 📄 License
 This project is for educational purposes only.
